@@ -1,0 +1,14 @@
+com.tundralabs.fluttertts.flutter_tts-core-1.8.0-0 /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/res
+com.tundralabs.fluttertts.flutter_tts-lifecycle-runtime-2.3.1-1 /home/user/.gradle/caches/transforms-3/3e21dec01fe9aa3bfa1f20f7a5345aec/transformed/lifecycle-runtime-2.3.1/res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-1.0.0-beta04-2 /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/res
+com.tundralabs.fluttertts.flutter_tts-jetified-annotation-experimental-1.1.0-3 /home/user/.gradle/caches/transforms-3/6f00b6b68abb3054aa7b3488273e3d04/transformed/jetified-annotation-experimental-1.1.0/res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-java-1.0.0-beta04-4 /home/user/.gradle/caches/transforms-3/a1118b19f3d9416b5ea59fa0177b9d46/transformed/jetified-window-java-1.0.0-beta04/res
+com.tundralabs.fluttertts.flutter_tts-jetified-core-ktx-1.8.0-5 /home/user/.gradle/caches/transforms-3/bfbb7bc2ac7137c9740a7db881d99978/transformed/jetified-core-ktx-1.8.0/res
+com.tundralabs.fluttertts.flutter_tts-main-6 /home/user/.pub-cache/hosted/pub.dev/flutter_tts-4.0.2/android/src/main/res
+com.tundralabs.fluttertts.flutter_tts-release-7 /home/user/.pub-cache/hosted/pub.dev/flutter_tts-4.0.2/android/src/release/res
+com.tundralabs.fluttertts.flutter_tts-pngs-8 /home/user/word_image_matching_game_version1/build/flutter_tts/generated/res/pngs/release
+com.tundralabs.fluttertts.flutter_tts-resValues-9 /home/user/word_image_matching_game_version1/build/flutter_tts/generated/res/resValues/release
+com.tundralabs.fluttertts.flutter_tts-rs-10 /home/user/word_image_matching_game_version1/build/flutter_tts/generated/res/rs/release
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-11 /home/user/word_image_matching_game_version1/build/flutter_tts/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-12 /home/user/word_image_matching_game_version1/build/flutter_tts/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tundralabs.fluttertts.flutter_tts-merged_res-13 /home/user/word_image_matching_game_version1/build/flutter_tts/intermediates/merged_res/release

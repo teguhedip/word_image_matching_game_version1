@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.speech_the_text"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10    <!--
+11         The INTERNET permission is required for development. Specifically,
+12         the Flutter tool needs it to communicate with the running application
+13         to allow setting breakpoints, to provide hot reload, etc.
+14    -->
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:7:5-66
+15-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:7:22-64
+16    <!-- <uses-permission android:name="android.permission.RECORD_AUDIO"/> -->
+17    <!-- <uses-permission android:name="android.permission.INTERNET"/> -->
+18    <uses-permission android:name="android.permission.BLUETOOTH" />
+18-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:4:5-67
+18-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:4:22-65
+19    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+19-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:5:5-73
+19-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:5:22-71
+20    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+20-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:6:5-75
+20-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:6:22-73
+21    <!--
+22 Required to query activities that can process text, see:
+23         https://developer.android.com/training/package-visibility?hl=en and
+24         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+25
+26         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+27    -->
+28    <queries>
+28-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:44:3-48:11
+29        <intent>
+29-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:45:3-47:12
+30            <action android:name="android.intent.action.TTS_SERVICE" />
+30-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:46:5-64
+30-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:46:13-61
+31        </intent>
+32    </queries>
+33
+34    <application
+35        android:name="android.app.Application"
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.8.0] /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+37        android:debuggable="true"
+38        android:icon="@mipmap/ic_launcher"
+39        android:label="matching_game" >
+40        <activity
+41            android:name="com.example.speech_the_text.MainActivity"
+42            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+43            android:exported="true"
+44            android:hardwareAccelerated="true"
+45            android:launchMode="singleTop"
+46            android:theme="@style/LaunchTheme"
+47            android:windowSoftInputMode="adjustResize" >
+48
+49            <!--
+50                 Specifies an Android theme to apply to this Activity as soon as
+51                 the Android process has started. This theme is visible to the user
+52                 while the Flutter UI initializes. After that, this theme continues
+53                 to determine the Window background behind the Flutter UI.
+54            -->
+55            <meta-data
+56                android:name="io.flutter.embedding.android.NormalTheme"
+57                android:resource="@style/NormalTheme" />
+58
+59            <intent-filter>
+60                <action android:name="android.intent.action.MAIN" />
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+63            </intent-filter>
+64        </activity>
+65        <!--
+66             Don't delete the meta-data below.
+67             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+68        -->
+69        <meta-data
+70            android:name="flutterEmbedding"
+71            android:value="2" />
+72
+73        <uses-library
+73-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+74            android:name="androidx.window.extensions"
+74-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+75            android:required="false" />
+75-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+76        <uses-library
+76-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+77            android:name="androidx.window.sidecar"
+77-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+78            android:required="false" />
+78-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+79    </application>
+80
+81</manifest>

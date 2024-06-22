@@ -1,0 +1,118 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.speech_the_text"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+10    <!-- <uses-permission android:name="android.permission.RECORD_AUDIO"/> -->
+11    <!-- <uses-permission android:name="android.permission.INTERNET"/> -->
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:4:22-65
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+13-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:5:5-73
+13-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:5:22-71
+14    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+14-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:6:5-75
+14-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:6:22-73
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:7:5-66
+15-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:7:22-64
+16    <!--
+17         Required to query activities that can process text, see:
+18         https://developer.android.com/training/package-visibility?hl=en and
+19         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+20
+21         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+22    -->
+23    <queries>
+23-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:44:3-48:11
+24        <intent>
+24-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:45:3-47:12
+25            <action android:name="android.intent.action.TTS_SERVICE" />
+25-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:46:5-64
+25-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:46:13-61
+26        </intent>
+27    </queries>
+28
+29    <application
+30        android:name="android.app.Application"
+30-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:10:9-42
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.8.0] /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+32        android:icon="@mipmap/ic_launcher"
+32-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:11:9-43
+33        android:label="matching_game" >
+33-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:9:9-38
+34        <activity
+34-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:12:9-32:20
+35            android:name="com.example.speech_the_text.MainActivity"
+35-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:13:13-41
+36            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+36-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:17:13-163
+37            android:exported="true"
+37-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:14:13-36
+38            android:hardwareAccelerated="true"
+38-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:18:13-47
+39            android:launchMode="singleTop"
+39-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:15:13-43
+40            android:theme="@style/LaunchTheme"
+40-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:16:13-47
+41            android:windowSoftInputMode="adjustResize" >
+41-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:19:13-55
+42
+43            <!--
+44                 Specifies an Android theme to apply to this Activity as soon as
+45                 the Android process has started. This theme is visible to the user
+46                 while the Flutter UI initializes. After that, this theme continues
+47                 to determine the Window background behind the Flutter UI.
+48            -->
+49            <meta-data
+49-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:24:13-27:17
+50                android:name="io.flutter.embedding.android.NormalTheme"
+50-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:25:15-70
+51                android:resource="@style/NormalTheme" />
+51-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:26:15-52
+52
+53            <intent-filter>
+53-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:28:13-31:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:29:17-68
+54-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:29:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:30:17-76
+56-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:30:27-74
+57            </intent-filter>
+58        </activity>
+59        <!--
+60             Don't delete the meta-data below.
+61             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+62        -->
+63        <meta-data
+63-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:35:9-37:33
+64            android:name="flutterEmbedding"
+64-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:36:13-44
+65            android:value="2" />
+65-->/home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:37:13-30
+66
+67        <uses-library
+67-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+68            android:name="androidx.window.extensions"
+68-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+69            android:required="false" />
+69-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+70        <uses-library
+70-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+71            android:name="androidx.window.sidecar"
+71-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+72            android:required="false" />
+72-->[androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+73    </application>
+74
+75</manifest>

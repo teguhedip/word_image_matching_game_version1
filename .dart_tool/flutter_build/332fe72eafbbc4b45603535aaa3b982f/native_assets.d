@@ -1,0 +1,1 @@
+ /home/user/word_image_matching_game_version1/.dart_tool/flutter_build/332fe72eafbbc4b45603535aaa3b982f/native_assets.yaml: 

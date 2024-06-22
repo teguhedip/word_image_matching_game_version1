@@ -1,0 +1,4 @@
+#Sat Jun 22 07:59:01 UTC 2024
+base.0=/home/user/word_image_matching_game_version1/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

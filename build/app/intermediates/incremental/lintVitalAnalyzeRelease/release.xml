@@ -1,0 +1,40 @@
+<variant
+    name="release"
+    package="com.example.speech_the_text"
+    minSdkVersion="21"
+    targetSdkVersion="34"
+    shrinking="true"
+    mergedManifest="/home/user/word_image_matching_game_version1/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    proguardFiles="/home/user/word_image_matching_game_version1/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0:/home/user/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/home/user/word_image_matching_game_version1/build/app/intermediates/lint_vital_partial_results/release/out"
+    desugaredMethodsFiles="/home/user/.gradle/caches/transforms-3/3e521261c9d2ee560da44dea006e7fb7/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin"
+        resDirectories="src/main/res"
+        assetsDirectories="src/main/assets"/>
+    <sourceProvider
+        manifest="src/release/AndroidManifest.xml"
+        javaDirectories="src/release/java:src/release/kotlin"
+        resDirectories="src/release/res"
+        assetsDirectories="src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="/home/user/word_image_matching_game_version1/build/app/intermediates/javac/release/classes:/home/user/word_image_matching_game_version1/build/app/tmp/kotlin-classes/release:/home/user/word_image_matching_game_version1/build/app/kotlinToolingMetadata:/home/user/word_image_matching_game_version1/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      applicationId="com.example.speech_the_text"
+      generatedSourceFolders="/home/user/word_image_matching_game_version1/build/app/generated/ap_generated_sources/release/out:/home/user/word_image_matching_game_version1/build/app/generated/aidl_source_output_dir/release/out:/home/user/word_image_matching_game_version1/build/app/generated/source/buildConfig/release:/home/user/word_image_matching_game_version1/build/app/generated/renderscript_source_output_dir/release/out"
+      generatedResourceFolders="/home/user/word_image_matching_game_version1/build/app/generated/res/rs/release:/home/user/word_image_matching_game_version1/build/app/generated/res/resValues/release">
+  </mainArtifact>
+</variant>

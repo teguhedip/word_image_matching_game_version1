@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+application
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:8:5-38:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/user/.gradle/caches/transforms-3/599f4e444eb27b416dece9d20a51aaf5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/user/.gradle/caches/transforms-3/599f4e444eb27b416dece9d20a51aaf5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:9:9-38
+	android:icon
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:10:9-42
+manifest
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+MERGED from [:flutter_tts] /home/user/word_image_matching_game_version1/build/flutter_tts/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] /home/user/word_image_matching_game_version1/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.8.0] /home/user/.gradle/caches/transforms-3/bfbb7bc2ac7137c9740a7db881d99978/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/a1118b19f3d9416b5ea59fa0177b9d46/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/user/.gradle/caches/transforms-3/e676d2b6fe947884c9e885a913aafbe7/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/user/.gradle/caches/transforms-3/dff809d9ea822c956625ccb5336a7d6d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/user/.gradle/caches/transforms-3/82816be2775f21507a891183c69e21e9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/user/.gradle/caches/transforms-3/6aaa2c3466a5ed56e637eaa5cc67760c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/user/.gradle/caches/transforms-3/6cecccac22064004e0aa6cdfcc153c5f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/user/.gradle/caches/transforms-3/eb05caf4c084975ce8bb83cc2ebc3ec1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/user/.gradle/caches/transforms-3/3e21dec01fe9aa3bfa1f20f7a5345aec/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/user/.gradle/caches/transforms-3/599f4e444eb27b416dece9d20a51aaf5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/user/.gradle/caches/transforms-3/c7eb4c7727e1ffb0dddf85e50aa2d328/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/user/.gradle/caches/transforms-3/5c674ed72a3767e0a6da424b0688ecd6/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/user/.gradle/caches/transforms-3/9a61a91fdb4ba8385372cc30941516fb/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/user/.gradle/caches/transforms-3/5bfdb363442cc50ed55d9dfb2ee731d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/user/.gradle/caches/transforms-3/7c73ee02b216ef66619ca3e231350ee6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/user/.gradle/caches/transforms-3/6f00b6b68abb3054aa7b3488273e3d04/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+	package
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:7:22-64
+queries
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:44:3-48:11
+intent#action:name:android.intent.action.TTS_SERVICE
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:45:3-47:12
+action#android.intent.action.TTS_SERVICE
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:46:5-64
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:46:13-61
+uses-sdk
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_tts] /home/user/word_image_matching_game_version1/build/flutter_tts/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_tts] /home/user/word_image_matching_game_version1/build/flutter_tts/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /home/user/word_image_matching_game_version1/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /home/user/word_image_matching_game_version1/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /home/user/.gradle/caches/transforms-3/bfbb7bc2ac7137c9740a7db881d99978/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /home/user/.gradle/caches/transforms-3/bfbb7bc2ac7137c9740a7db881d99978/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/a1118b19f3d9416b5ea59fa0177b9d46/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/a1118b19f3d9416b5ea59fa0177b9d46/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/user/.gradle/caches/transforms-3/e676d2b6fe947884c9e885a913aafbe7/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/user/.gradle/caches/transforms-3/e676d2b6fe947884c9e885a913aafbe7/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/user/.gradle/caches/transforms-3/dff809d9ea822c956625ccb5336a7d6d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/user/.gradle/caches/transforms-3/dff809d9ea822c956625ccb5336a7d6d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/user/.gradle/caches/transforms-3/82816be2775f21507a891183c69e21e9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/user/.gradle/caches/transforms-3/82816be2775f21507a891183c69e21e9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/user/.gradle/caches/transforms-3/6aaa2c3466a5ed56e637eaa5cc67760c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/user/.gradle/caches/transforms-3/6aaa2c3466a5ed56e637eaa5cc67760c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/user/.gradle/caches/transforms-3/6cecccac22064004e0aa6cdfcc153c5f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/user/.gradle/caches/transforms-3/6cecccac22064004e0aa6cdfcc153c5f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/user/.gradle/caches/transforms-3/eb05caf4c084975ce8bb83cc2ebc3ec1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/user/.gradle/caches/transforms-3/eb05caf4c084975ce8bb83cc2ebc3ec1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/user/.gradle/caches/transforms-3/3e21dec01fe9aa3bfa1f20f7a5345aec/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/user/.gradle/caches/transforms-3/3e21dec01fe9aa3bfa1f20f7a5345aec/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/user/.gradle/caches/transforms-3/599f4e444eb27b416dece9d20a51aaf5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/user/.gradle/caches/transforms-3/599f4e444eb27b416dece9d20a51aaf5/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/user/.gradle/caches/transforms-3/c7eb4c7727e1ffb0dddf85e50aa2d328/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/user/.gradle/caches/transforms-3/c7eb4c7727e1ffb0dddf85e50aa2d328/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/user/.gradle/caches/transforms-3/5c674ed72a3767e0a6da424b0688ecd6/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/user/.gradle/caches/transforms-3/5c674ed72a3767e0a6da424b0688ecd6/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/user/.gradle/caches/transforms-3/9a61a91fdb4ba8385372cc30941516fb/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/user/.gradle/caches/transforms-3/9a61a91fdb4ba8385372cc30941516fb/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/user/.gradle/caches/transforms-3/5bfdb363442cc50ed55d9dfb2ee731d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/user/.gradle/caches/transforms-3/5bfdb363442cc50ed55d9dfb2ee731d0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/user/.gradle/caches/transforms-3/7c73ee02b216ef66619ca3e231350ee6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/user/.gradle/caches/transforms-3/7c73ee02b216ef66619ca3e231350ee6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/user/.gradle/caches/transforms-3/6f00b6b68abb3054aa7b3488273e3d04/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/user/.gradle/caches/transforms-3/6f00b6b68abb3054aa7b3488273e3d04/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml
+activity#com.example.speech_the_text.MainActivity
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:12:9-32:20
+	android:launchMode
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:14:13-36
+	android:configChanges
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:17:13-163
+	android:theme
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:24:13-27:17
+	android:resource
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:26:15-52
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:25:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:30:27-74
+meta-data#flutterEmbedding
+ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:35:9-37:33
+	android:value
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:37:13-30
+	android:name
+		ADDED from /home/user/word_image_matching_game_version1/android/app/src/main/AndroidManifest.xml:36:13-44
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

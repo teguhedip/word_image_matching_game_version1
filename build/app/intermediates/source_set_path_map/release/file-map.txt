@@ -1,0 +1,16 @@
+com.example.speech_the_text.app-core-1.8.0-0 /home/user/.gradle/caches/transforms-3/06b6342983ea067d0d575692ecb1f42b/transformed/core-1.8.0/res
+com.example.speech_the_text.app-lifecycle-runtime-2.3.1-1 /home/user/.gradle/caches/transforms-3/3e21dec01fe9aa3bfa1f20f7a5345aec/transformed/lifecycle-runtime-2.3.1/res
+com.example.speech_the_text.app-jetified-window-1.0.0-beta04-2 /home/user/.gradle/caches/transforms-3/6427700cb92eb405a126156e89b1d3ae/transformed/jetified-window-1.0.0-beta04/res
+com.example.speech_the_text.app-jetified-annotation-experimental-1.1.0-3 /home/user/.gradle/caches/transforms-3/6f00b6b68abb3054aa7b3488273e3d04/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.speech_the_text.app-jetified-window-java-1.0.0-beta04-4 /home/user/.gradle/caches/transforms-3/a1118b19f3d9416b5ea59fa0177b9d46/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.speech_the_text.app-jetified-core-ktx-1.8.0-5 /home/user/.gradle/caches/transforms-3/bfbb7bc2ac7137c9740a7db881d99978/transformed/jetified-core-ktx-1.8.0/res
+com.example.speech_the_text.app-main-6 /home/user/word_image_matching_game_version1/android/app/src/main/res
+com.example.speech_the_text.app-release-7 /home/user/word_image_matching_game_version1/android/app/src/release/res
+com.example.speech_the_text.app-pngs-8 /home/user/word_image_matching_game_version1/build/app/generated/res/pngs/release
+com.example.speech_the_text.app-resValues-9 /home/user/word_image_matching_game_version1/build/app/generated/res/resValues/release
+com.example.speech_the_text.app-rs-10 /home/user/word_image_matching_game_version1/build/app/generated/res/rs/release
+com.example.speech_the_text.app-mergeReleaseResources-11 /home/user/word_image_matching_game_version1/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.speech_the_text.app-mergeReleaseResources-12 /home/user/word_image_matching_game_version1/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.speech_the_text.app-merged_res-13 /home/user/word_image_matching_game_version1/build/app/intermediates/merged_res/release
+com.example.speech_the_text.app-packaged_res-14 /home/user/word_image_matching_game_version1/build/flutter_tts/intermediates/packaged_res/release
+com.example.speech_the_text.app-packaged_res-15 /home/user/word_image_matching_game_version1/build/shared_preferences_android/intermediates/packaged_res/release
